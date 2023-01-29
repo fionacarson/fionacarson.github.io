@@ -1,15 +1,15 @@
 ## Data Analysis Portfolio
 
 
-[Hospital Care in Scotland - Impact of Covid-19 and Winter](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hospital Care in Scotland - Impact of Covid-19 and Winter]()
+<img src="images/salmon_dashboard_screenshot.png?raw=true"/>
 
 ---
-[Density of Juvenile Salmon in Caithness Rivers](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Density of Juvenile Salmon in Caithness Rivers](https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/)
+<img src="images/salmon_dashboard_screenshot.png?raw=true"/>
 
 ---
-[Incidence of Cancer in NHS Borders](http://example.com/)
+[Incidence of Cancer in NHS Borders](https://github.com/fionacarson/cancer_incidence_nhs_borders/blob/main/analysis/cancer_incidence_data_investigation.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
