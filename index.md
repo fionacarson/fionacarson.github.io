@@ -2,7 +2,7 @@
 
 
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
-<img src="images/salmon_dashboard_screenshot.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Density of Juvenile Salmon in Caithness Rivers](https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/)
