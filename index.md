@@ -9,7 +9,7 @@
 <img src="images/salmon_dashboard_screenshot.png?raw=true"/>
 
 ---
-[Incidence of Cancer in NHS Borders](https://github.com/fionacarson/cancer_incidence_nhs_borders/blob/main/analysis/cancer_incidence_data_investigation.html)
+[Incidence of Cancer in NHS Borders](/cancer_incidence_data_investigation.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
