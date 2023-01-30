@@ -18,7 +18,7 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj sdfsjkl sdlkf
 asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
   
   
-<br><br>
+
 
 ---
 ### Density of Juvenile Salmon in Caithness Rivers
@@ -70,6 +70,12 @@ Key Findings
 
 ---
 ### Dirty Data Project
+This project involves cleaning "dirty" datasets and performing analysis on the cleaned data. The main purpose is to gain experience in dealing with such datasets. The outputs of each task are a cleaning script, a cleaned dataset and a markdown document containing the results of the analysis. It should be noted that this analysis was conducted durinng week 4 of the CodeClan Data Analysis course and so the coding is at a somewhat basic level.
+
+The work in this repository was conducted with the R programming language.
+
+
+#### Boing Boing Candy  
 
 [Boing Boing Candy - Markdown Report](/html_files/candy_analysis.html)
 
@@ -81,25 +87,17 @@ Key Findings
   alt="Pumpkin house"
   style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
-
-sfjksldjfklsdjf jsdklfj kjs dkfjklj sdkfj kj skldjf kljlkjdsklf kljlkjdflkj lkj lsdjflkj lk lkjsfkljkjkjdfkj kj kljsdfkl jlkj lkjdf lkj klj klsj dflkj klj klj dsflkj klj kljdf klj lk slkdfj lkj lkj klsdjf lk jlkj klj sdklf jklj kl jlksjdf klj klj lkjsd flk jkl jkl jlks jdflkj klj klj klj klsd fjkl jlkj klsj dflk jklj lkj klsdj flk jklj lkj lksjd fkl klj klj klsdjf klj klj klj klsjd flkj kljlksjdflksjfkljklsjdf klj sdklfj kljsd flkj sdklfj lksdjf lkj sdfklj sdlkjfkljsdklfj 
-
-
-<img
-  align="left"
-  src="images/bats_pumpkin.jpeg"
-  height="212"
-  width="202"
-  alt="Bat pumpkin"
-  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
+The boing boing candy dataset contains the results of a Halloween candy survey. The data covers three years (2015, 2016 and 2017) and includes information on the person completing the survey, such as age, gender and country. The ratings used were Joy, Despair, Meh or NA for the 2016 and 2017 data; Meh was not an option in 2015. The 2015 data also lacked information on the gender and country of the person completing the survey. I believe it is accurate to say the original datasets were a mess and required extensive cleaning. The country column, in particular, had a lot of non-standard answers. Some analysis was conducted on the age of participants but most of the analysis focussed on which candies were most or least popular. The items rated weren't just candy, things like DVDs, glow sticks and pharmaceuticals were also included. Limiting the analysis to just candy was considered but it was decided to leave non-candy items in for completeness.
 
 
 
+
+#### Decathlon
 
 [Decathlon - Markdown Report](/html_files/decathlon_analysis.html)
 
 
-
+The decathlon dataset contains the results from each of the 10 events in the decathlon. The data covers two competitions - the 2004 Olympic Games and the 2004 Decastar competition. The data also includes the place the athlete finished ("rank") and their total points. This dataset only required a few relatively minor cleaning steps before it was interrogated to answer questions on longest jump, average 100 metre times, highest points total etc. This is a nice dataset which shows the dominance of three decathletes during the 2004 season.
 
 
 
@@ -107,5 +105,5 @@ sfjksldjfklsdjf jsdklfj kjs dkfjklj sdkfj kj skldjf kljlkjdsklf kljlkjdflkj lkj 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:7px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
