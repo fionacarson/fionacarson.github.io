@@ -5,7 +5,7 @@
 
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
 
-
+asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
 
 <img 
   src="images/gp_proj_waiting_times.png"
@@ -16,13 +16,10 @@
   style="display: block">  
 
   
+asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
   
   
-    
-<br/>
-<br/>
-<br/>
-<br/>
+<br><br>
 
 ---
 ### Density of Juvenile Salmon in Caithness Rivers
@@ -30,6 +27,7 @@
 [Link to R Shiny app](https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/)
 
 
+asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
 
 
 <img 
@@ -39,8 +37,11 @@
   width="625"
   alt="Plot of cancer incidence in NHS Borders"
   style="display: block">  
-                                                                
-                                                              
+
+
+asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
+
+ <br><br>                                                             
 
 ---
 ### Incidence of Cancer in NHS Borders
@@ -54,6 +55,8 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
   width="428"
   alt="Plot of cancer incidence in NHS Borders"
   style="display: inline-flex">
+
+
 
 Key Findings
 - The population of the Borders region of Scotland is rising.
