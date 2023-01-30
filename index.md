@@ -54,7 +54,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
   height="305"
   width="428"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: block; margin: 5 auto; max-width: 600px"> 
+  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
 
 
