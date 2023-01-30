@@ -73,25 +73,36 @@ Key Findings
 
 [Boing Boing Candy - Markdown Report](/html_files/candy_analysis.html)
 
-[Decathlon - Markdown Report](/html_files/decathlon_analysis.html)
+<img
+  align="right"
+  src="images/pumpkin_house.jpeg"
+  height="203"
+  width="224"
+  alt="Pumpkin house"
+  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
+
+
+sfjksldjfklsdjf jsdklfj kjs dkfjklj sdkfj kj skldjf kljlkjdsklf kljlkjdflkj lkj lsdjflkj lk lkjsfkljkjkjdfkj kj kljsdfkl jlkj lkjdf lkj klj klsj dflkj klj klj dsflkj klj kljdf klj lk slkdfj lkj lkj klsdjf lk jlkj klj sdklf jklj kl jlksjdf klj klj lkjsd flk jkl jkl jlks jdflkj klj klj klj klsd fjkl jlkj klsj dflk jklj lkj klsdj flk jklj lkj lksjd fkl klj klj klsdjf klj klj klj klsjd flkj kljlksjdflksjfkljklsjdf klj sdklfj kljsd flkj sdklfj lksdjf lkj sdfklj sdlkjfkljsdklfj 
 
 
 <img
-  align="right"
-  src="images/bats_pumpkin.jpg"
-  height="305"
-  width="428"
+  align="left"
+  src="images/bats_pumpkin.jpeg"
+  height="212"
+  width="202"
   alt="Bat pumpkin"
   style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
 
-<img
-  align="right"
-  src="images/pumpkin_house.jpg"
-  height="305"
-  width="428"
-  alt="Pumpkin house"
-  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
+
+
+[Decathlon - Markdown Report](/html_files/decathlon_analysis.html)
+
+
+
+
+
+
 
 
 
