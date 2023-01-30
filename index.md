@@ -13,7 +13,7 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
   height="351"
   width="604"
   alt="Hospital Care in Scotland App Screenshot - Waiting Times"
-  style="display: block">  
+  style="display: block; margin: 5 auto; max-width: 600px">  
 
   
 asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
