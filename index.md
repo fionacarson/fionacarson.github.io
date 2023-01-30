@@ -75,10 +75,23 @@ Key Findings
 
 [Decathlon - Markdown Report](/html_files/decathlon_analysis.html)
 
-#insert photo from halloween of our pumpkins
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img
+  align="right"
+  src="images/bats_pumpkin.jpg"
+  height="305"
+  width="428"
+  alt="Bat pumpkin"
+  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
 
+<img
+  align="right"
+  src="images/pumpkin_house.jpg"
+  height="305"
+  width="428"
+  alt="Pumpkin house"
+  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
 
 
