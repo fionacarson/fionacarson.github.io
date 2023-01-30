@@ -14,12 +14,39 @@
 
 
 
-<img src="images/salmon_dashboard_screenshot.png?raw=true"/>
+
+<img 
+  src="images/salmon_dashboard_screenshot.png"
+  align="left"
+  height="471"
+  width="625"
+  alt="Plot of cancer incidence in NHS Borders"
+  style="display: inline-flex; margin: 5 auto; max-width: 600px">  
+                                                                
+                                                              
 
 ---
 ### Incidence of Cancer in NHS Borders
 [Incidence of Cancer in NHS Borders - Markdown Report](/html_files/cancer_incidence_data_investigation.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+The incidence of cancer in NHS Borders was investigated to help inform planning for the future provision of cancer treatment services (mock task). Datasets from Public Health Scotland were cleaned, wrangled and analysed. This was conducted using R with the tidyverse package. Results of the analysis were presented to key stakeholders. 
+<img
+  align="right"
+  src="images/incidence_graph.png"
+  height="305"
+  width="428"
+  alt="Plot of cancer incidence in NHS Borders"
+  style="display: inline-flex; margin: 5 auto; max-width: 600px">
+
+Key Findings
+- The population of the Borders region of Scotland is rising.
+- The number of incidences of cancer in NHS Borders is also rising but at a faster rate than can be accounted for by the population increase.
+- Bladder, prostrate, lung and breast cancer account of 60% of all incidences.
+- A pronounced spike in the number of cancer diagnoses is observed every 3 years. Upon further analysis this spike was found to come from the breast cancer data and research indicates GP practices only take part in screening programmes every 3 years.
+- 11 out of 12 of the most common cancer types have increasing numbers of incidences (only leukaemias are not increasing).
+
+
+
 
 ---
 ### Dirty Data Project
