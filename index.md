@@ -5,7 +5,18 @@
 
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
 
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+<img 
+  src="images/gp_proj_waiting_times.png"
+  align="left"
+  height="351"
+  width="604"
+  alt="Hospital Care in Scotland App Screenshot - Waiting Times"
+  style="display: block; margin: 5 auto; max-width: 600px">  
+
+
+
 
 ---
 ### Density of Juvenile Salmon in Caithness Rivers
@@ -21,7 +32,7 @@
   height="471"
   width="625"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: inline-flex; margin: 5 auto; max-width: 600px">  
+  style="display: block; margin: 5 auto; max-width: 600px">  
                                                                 
                                                               
 
