@@ -36,7 +36,7 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
   height="471"
   width="625"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: block">  
+  style="display: block; margin: 5 auto; max-width: 600px">   
 
 
 asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
@@ -54,7 +54,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
   height="305"
   width="428"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: inline-flex">
+  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
 
 
