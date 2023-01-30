@@ -2,10 +2,43 @@
 
 ### Hospital Care in Scotland - Impact of Covid-19 and Winter
 
-
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
 
-asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj sdfsjkl sdlkfj sdkfjlk slkjskl lkjsdf lkj dslkfj lkjsdlj kdjfkjslkdjf sk fksdjfl sdlfkjkl sdfkj sdf lkj klsdjf klj sdlkfj kljlskdjflkj lkjsldjlsd lkj ls dflkj lksj flkjskldjf l sj ldkfj klj klsjd flkj ls fjlkjf lkj lkj slkdfj lk jlkj flksj klj lkj dflkj lk fdlks jflkj lk
+Background to Project
+This was a group project carried out over seven days. The brief was to investigate to what extent the ‘winter crises’ reported in the media are real and determine how Covid has affected acute care in Scotland. The findings were presented via an R Shiny dashboard and presentation.
+
+The dashboard outlines the topic in terms of a journey through the hospital system from admission, to treatment and then finally discharge. It contains a front page summary which also allows data to be investigated by health board, followed by further tabs which cover admission, treatment and discharge. A tab for statistical analysis of the winter/summer difference is also included.
+
+Names of Group Members
+Fiona Carson, Sarah Hughes and Malcolm Speight
+
+Stages of the Project
+A large amount of background reading was conducted at the start of the project to help with the questions in the brief. Crises in the NHS is topical at the moment and there are a large number of media reports available.
+
+The data links provided in the brief were investigated and other data was also sourced from the Public Health Scotland website. This stage of the project involved high level analysis such as determining what variables were in the data and what time periods the data was collected over.
+
+The git folder structure was set up and the repository shared.
+
+Once the data was better understood we discussed the key datasets that would help answer the brief. These key datasets were divided among team members and then analysed in detail to determine trends in time and by geography, age and deprivation.
+
+Planning the structure of the dashboard was conducted on pen and paper. Once this was agreed, a more detailed dashboard outline was created and shared through Miro.
+
+Cleaning and wrangling the data was a time consuming task, which was followed by preparing suitable graphs. Getting the datasets into standard formats where possible was important to help make the dahsboard buil smoother. A graph theme, colour palette and plotting function were created to simplify the visualisation step and ensure our plots were consistent.
+
+The outline of an R Shiny app was created and then populated according to the original plan.
+
+It was difficult to visualise the contents of our front page summary tab at the start of the project so this was designed and built after the rest of the app was working.
+
+The app was extensively tested to ensure it worked as it should and all data was displayed as expected.
+
+Finally the documentation was completed and a presentation prepared.
+
+Ethical Considerations
+Some of the datasets had flags for confidentiality, meaning that values were low enough that they could identify and individual. This meant that patient numbers are underestimated in some of teh health boards with lower patient numbers. To limit the effect that this would have we imputed missing values as 1 (making the assumption that at least one patient was there), but only in cased were we were aggregating further. Once aggregated there are no further issues with confidentiality.
+
+There are some ethical considerations around publishing waiting time data. As described in the data bias section different waiting times will be calculated depending on whether you use the completed or patients still waiting datasets. This could lead to patients having unrealistic expectations for how quickly they will be seen for a particular condition.
+
+
 
 <img 
   src="images/gp_proj_waiting_times.png"
@@ -14,8 +47,7 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj sdfsjkl sdlkf
   alt="Hospital Care in Scotland App Screenshot - Waiting Times"
   style="display: block; margin: 5 auto; max-width: 600px">  
 
-  
-asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
+
   
   
 
@@ -26,7 +58,15 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
 [Link to R Shiny app](https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/)
 
 
-asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
+Background  
+How was the data gathered?  
+Information on the density of juvenile salmon was collected by a method called electrofishing. Various sites across six Caithness rivers were monitored over a range of years. The practicalities of these measurements involve either a bank-based generator and control box or equipment in a portable backpack format. The volume of the area of river tested must be estimated to allow the calculation of both mass and numerical densities.
+
+Why was the data gathered?  
+The National Electrofishing Programme for Scotland (NEPS) is organised, run and reported on by Marine Scotland Science (MSS) and operates across Scotland; its purpose is to provide regional assessment of the status of juvenile salmon throughout Scotland. The Caithness District Salmon Fisheries Board (CDSFB) is responsible for collecting the data for NEPs from the Caithness rivers and they also sample sites which are outwith the NEPs programme. CDSFB are concerned with surveillance of the juvenile salmon stocks in each of the six Caithness rivers to enable advice to be provided to fisheries managers.
+
+Motivation for Creating R-shiny Dashboard  
+Initially a Tableau dashboard was created with this data. After learning R Shiny I wanted to practice creating dashboards and felt that this dataset was ideal as it contained data which could be visualised both graphically and geospatially.
 
 
 <img 
@@ -37,7 +77,7 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
   style="display: block; margin: 5 auto; max-width: 600px">   
 
 
-asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
+
 
  <br><br>                                                             
 
@@ -49,7 +89,6 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
 
 
 <img
-  align="right"
   src="images/incidence_graph.png"
   height="305"
   width="428"
