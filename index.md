@@ -13,7 +13,7 @@
   height="351"
   width="604"
   alt="Hospital Care in Scotland App Screenshot - Waiting Times"
-  style="display: block; margin: 5 auto; max-width: 600px">  
+  style="display: block">  
 
   
   
@@ -38,7 +38,7 @@
   height="471"
   width="625"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: block; margin: 5 auto; max-width: 600px">  
+  style="display: block">  
                                                                 
                                                               
 
@@ -53,7 +53,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
   height="305"
   width="428"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: inline-flex; margin: 5 auto; max-width: 600px">
+  style="display: inline-flex">
 
 Key Findings
 - The population of the Borders region of Scotland is rising.
