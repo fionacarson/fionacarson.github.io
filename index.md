@@ -9,7 +9,6 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj sdfsjkl sdlkf
 
 <img 
   src="images/gp_proj_waiting_times.png"
-  align="left"
   height="351"
   width="604"
   alt="Hospital Care in Scotland App Screenshot - Waiting Times"
@@ -32,7 +31,6 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
 
 <img 
   src="images/salmon_dashboard_screenshot.png"
-  align="left"
   height="471"
   width="625"
   alt="Plot of cancer incidence in NHS Borders"
