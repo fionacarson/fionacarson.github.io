@@ -54,7 +54,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
   height="305"
   width="428"
   alt="Plot of cancer incidence in NHS Borders"
-  style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
+  style="display: block; margin: 5 auto; max-width: 600px"> 
 
 
 
@@ -82,8 +82,8 @@ The work in this repository was conducted with the R programming language.
 <img
   align="right"
   src="images/pumpkin_house.jpeg"
-  height="203"
-  width="224"
+  height="101"
+  width="112"
   alt="Pumpkin house"
   style="display: inline-flex; margin: 5 auto; max-width: 600px"> 
 
