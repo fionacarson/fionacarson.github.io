@@ -5,7 +5,7 @@
 
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
 
-asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj 
+asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj sdfsjkl sdlkfj sdkfjlk slkjskl lkjsdf lkj dslkfj lkjsdlj kdjfkjslkdjf sk fksdjfl sdlfkjkl sdfkj sdf lkj klsdjf klj sdlkfj kljlskdjflkj lkjsldjlsd lkj ls dflkj lksj flkjskldjf l sj ldkfj klj klsjd flkj ls fjlkjf lkj lkj slkdfj lk jlkj flksj klj lkj dflkj lk fdlks jflkj lk
 
 <img 
   src="images/gp_proj_waiting_times.png"
@@ -48,6 +48,8 @@ asdfjksjdfklsdjfkljsdfklsdf aksldjfsk aslkjdfk. sdkfj sdlkfj sdkfj
 [Incidence of Cancer in NHS Borders - Markdown Report](/html_files/cancer_incidence_data_investigation.html)
 
 The incidence of cancer in NHS Borders was investigated to help inform planning for the future provision of cancer treatment services (mock task). Datasets from Public Health Scotland were cleaned, wrangled and analysed. This was conducted using R with the tidyverse package. Results of the analysis were presented to key stakeholders. 
+
+
 <img
   align="right"
   src="images/incidence_graph.png"
