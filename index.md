@@ -2,7 +2,7 @@
 
 ## Hospital Care in Scotland - Impact of Covid-19 and Winter
 
-[Link to R Shiny app]()
+[Link to R Shiny app](https://e4z4az-fiona-carson.shinyapps.io/hospital_care_in_scotland)
 
 #### Background to Project
 This was a group project carried out over seven days. The brief was to investigate to what extent the ‘winter crises’ reported in the media are real and determine how Covid has affected acute care in Scotland. The findings were presented via an R Shiny dashboard and presentation.
@@ -14,13 +14,13 @@ Fiona Carson, Sarah Hughes and Malcolm Speight
 
 #### KPIs
 The following KPIs were chosen, the relevant datasets were analysed and the results displayed on the dashboard:
-- Hospital admissions by age, deprivation, medical speciality and admission type: captures who is being admitted to hospital and why.
-- A&E admission times within 4 hour target: indicates how quickly patients are being attended to once presenting at A&E.
-- Waiting lists: a measure of the rate at which patients are being processed through the system.
-- COVID admissions: captures the lingering impact of COVID on NHS resources.
-- Bed occupancy: a measure of capacity and the ability of health care system to deal with a rise in patient levels.
-- Length of stay (of patient in hospital): another measure of capacity - the longer the stay, the fewer patients can be attended to over a period. 
-- Delayed discharge bed days by age and reason for delay: a capacity measure of patients in hospital who are medically fit to leave.
+- Hospital admissions by age, deprivation, medical speciality and admission type
+- A&E admission times within 4 hour target
+- Waiting lists
+- COVID admissions
+- Bed occupancy
+- Length of stay (of patient in hospital) 
+- Delayed discharge bed days by age and reason for delay
 
 #### Key Findings
 - The rate of discharging patients from hospital has slowed considerably - delayed bed days are close to 30% higher than pre-pandemic.
