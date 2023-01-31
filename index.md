@@ -103,9 +103,8 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
 - A pronounced spike in the number of cancer diagnoses is observed every 3 years. Upon further analysis this spike was found to come from the breast cancer data and research indicates GP practices only take part in screening programmes every 3 years.
 - 11 out of 12 of the most common cancer types have increasing numbers of incidences (only leukaemias are not increasing).
 
-
-
 <br><br>
+
 ---
 ## Dirty Data Project
 This project involves cleaning "dirty" datasets and performing analysis on the cleaned data in R. The main purpose was to gain experience in dealing with messy datasets. The outputs of each task are a cleaning script, a cleaned dataset and a markdown document containing the results of the analysis. It should be noted that this analysis was conducted during week 4 of the CodeClan Data Analysis course and so the coding is at a somewhat basic level.
