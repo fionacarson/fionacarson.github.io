@@ -1,6 +1,6 @@
-## Data Analysis Portfolio
+# Data Analysis Portfolio
 
-### Hospital Care in Scotland - Impact of Covid-19 and Winter
+## Hospital Care in Scotland - Impact of Covid-19 and Winter
 
 [Hospital Care in Scotland - Impact of Covid-19 and Winter]()
 
@@ -54,7 +54,7 @@ There are some ethical considerations around publishing waiting time data. As de
 <br><br>
 
 ---
-### Density of Juvenile Salmon in Caithness Rivers
+## Density of Juvenile Salmon in Caithness Rivers
 
 [Link to R Shiny app](https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/)
  
@@ -81,7 +81,7 @@ Initially a Tableau dashboard was created with this data. After learning R Shiny
  <br><br>                                                             
 
 ---
-### Incidence of Cancer in NHS Borders
+## Incidence of Cancer in NHS Borders
 [Incidence of Cancer in NHS Borders - Markdown Report](/html_files/cancer_incidence_data_investigation.html)
 
 The incidence of cancer in NHS Borders was investigated to help inform planning for the future provision of cancer treatment services (mock task). Datasets from Public Health Scotland were cleaned, wrangled and analysed. This was conducted using R with the tidyverse package. Results of the analysis were presented to key stakeholders. 
@@ -107,7 +107,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
 
 <br><br>
 ---
-### Dirty Data Project
+## Dirty Data Project
 This project involves cleaning "dirty" datasets and performing analysis on the cleaned data in R. The main purpose was to gain experience in dealing with messy datasets. The outputs of each task are a cleaning script, a cleaned dataset and a markdown document containing the results of the analysis. It should be noted that this analysis was conducted during week 4 of the CodeClan Data Analysis course and so the coding is at a somewhat basic level.
 
 
