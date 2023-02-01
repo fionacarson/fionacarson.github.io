@@ -5,15 +5,15 @@
 [Link to R Shiny app](https://e4z4az-fiona-carson.shinyapps.io/hospital_care_in_scotland)
 
 #### Background to Project
-This was a group project carried out over seven days. The brief was to investigate to what extent the ‘winter crises’ reported in the media are real and determine how Covid has affected acute care in Scotland. The findings were presented via an R Shiny dashboard and presentation.
+This group project investigated to what extent the ‘winter crises’ reported in the media are real and determined how Covid-19 affected acute care in Scotland. The findings are presented via an R Shiny dashboard.
 
-The dashboard outlines the topic in terms of a journey through the hospital system from admission, to treatment and then finally discharge. It contains a front page summary which also allows data to be investigated by health board, followed by further tabs which cover admission, treatment and discharge. A tab for statistical analysis of the winter/summer difference is also included.
+The dashboard outlines the topic in terms of a journey through the hospital system from admission, to treatment and finally discharge. It contains a front page summary which also allows data to be investigated by health board, followed by further tabs which cover admission, treatment and discharge. A tab for statistical analysis of the winter/summer difference is also included.
 
 #### Names of Group Members
 Fiona Carson, Sarah Hughes and Malcolm Speight
 
 #### KPIs
-The following KPIs were chosen, the relevant datasets were analysed and the results displayed on the dashboard:
+The following KPIs were chosen:
 - Hospital admissions by age, deprivation, medical speciality and admission type
 - A&E admission times within 4 hour target
 - Waiting lists
@@ -23,21 +23,14 @@ The following KPIs were chosen, the relevant datasets were analysed and the resu
 - Delayed discharge bed days by age and reason for delay
 
 #### Key Findings
-- The rate of discharging patients from hospital has slowed considerably - delayed bed days are close to 30% higher than pre-pandemic.
-- Data from Summer 2022 shows length of hospital stay is rising.
+- The rate of discharging patients has slowed considerably compared to pre-pandemic levels. 
+- The length of hospital stay is rising.
 - The result is higher bed occupancy and so lower bed availability.
-- This explains the lower patient volumes (admissions) as there are available fewer beds.
+- This, in turn,  explains the lower patient admissions as there is nowhere for new patients to go. 
 - With slower admissions, A&E waiting times rise as people wait to be seen.
-- The pandemic increased waiting lists as attention and resources was focused on COVID patients.
-- It seems the NHS is struggling to process this back-log alongside it BAU patient intake.
-- The pipe is too narrow for the increased volume of patients.
-- Whether this restriction is due to staffing levels, insufficient beds, staff exhaustion and/or another limited resource, it’s not clear from the data we have seen. 
-- The NHS crises is not limited to winter. It’s presently an all-year condition.
-
-#### Ethical Considerations
-Some of the datasets had flags for confidentiality, meaning that values were low enough that they could identify and individual. This meant that patient numbers are underestimated in some of teh health boards with lower patient numbers. To limit the effect that this would have we imputed missing values as 1 (making the assumption that at least one patient was there), but only in cased were we were aggregating further. Once aggregated there are no further issues with confidentiality.
-
-There are some ethical considerations around publishing waiting time data. As described in the data bias section different waiting times will be calculated depending on whether you use the completed or patients still waiting datasets. This could lead to patients having unrealistic expectations for how quickly they will be seen for a particular condition.
+- The pandemic increased waiting lists as attention and resources were focused on Covid patients.
+- The NHS is struggling to process the waiting list back-log.
+- The NHS crises is not limited to winter it is an all-year condition.
 
 #### App Screenshot
 
