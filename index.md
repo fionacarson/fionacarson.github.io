@@ -89,7 +89,7 @@ The incidence of cancer in NHS Borders was investigated to help inform planning 
 
 
 
-**Key Findings:**
+**Key Findings**
 - The population of the Borders region of Scotland is rising.
 - The number of incidences of cancer in NHS Borders is also rising but at a faster rate than can be accounted for by the population increase.
 - Bladder, prostrate, lung and breast cancer account of 60% of all incidences.
@@ -119,7 +119,7 @@ The boing boing candy datasets contain the results of a Halloween candy survey c
 
 The candy ratings used were Joy, Despair, Meh or NA for the 2016 and 2017 data; Meh was not an option in 2015. The 2015 data also lacked information on the gender and country of the person completing the survey. The country column, in particular, had a lot of non-standard answers. Some analysis was conducted on the age of participants but most of the analysis focussed on which candies were most or least popular. The items rated weren't just candy, things like DVDs, glow sticks and pharmaceuticals were also included. Limiting the analysis to just candy was considered but it was decided to leave non-candy items in for completeness.
 
-**Key Findings:**
+**Key Findings**
 - The total number of candy ratings given across the three years was 772352.
 - Full sized candy bars received the highest number of "Joy" ratings.
 - Broken glow sticks understandably received the highest number of "Despair" ratings. 
